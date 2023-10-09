@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vusal.ghasanov@gmail.com**
 
-- 📄 Know about my experiences [https://vusal.dev/files/cv.pdf](https://vusal.dev/files/cv.pdf)
+- 📄 Know about my experiences [vusal.dev/about](https://vusal.dev/#about)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
