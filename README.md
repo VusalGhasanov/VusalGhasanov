@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vusalghasanov&label=Profile%20views&color=0e75b6&style=flat" alt="vusalghasanov" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://vusal.dev/](https://vusal.dev/)
+- 👨‍💻 All of my projects are available at [vusal.dev](https://vusal.dev/)
 
 - 💬 Ask me about **react, vue, nodejs, nestjs, expressjs, php, laravel**
 
