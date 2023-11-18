@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react, vue, nodejs, nestjs, expressjs, php, laravel**
 
-- 📫 How to reach me **vusal.ghasanov@gmail.com**
+- 📫 How to reach me **hello@vusal.dev**
 
 - 📄 Know about my experiences [vusal.dev/about](https://vusal.dev)
 
